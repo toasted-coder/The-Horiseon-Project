@@ -1,6 +1,6 @@
 The Horiseon Project
 
-Repository url:https://github.com/toasted-coder/The-Horiseon-Project
+Repository url: https://github.com/toasted-coder/The-Horiseon-Project
 Deployment url: https://toasted-coder.github.io/The-Horiseon-Project/
 
 1. Went through the style.css page and combined classes that had the same values.
