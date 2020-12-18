@@ -1,5 +1,8 @@
 The Horiseon Project
 
+Repository url:https://github.com/toasted-coder/The-Horiseon-Project
+Deployment url: https://toasted-coder.github.io/The-Horiseon-Project/
+
 1. Went through the style.css page and combined classes that had the same values.
 2. Added alt text for each image on the webpage.
 3. Cleaned up the general structure of the code for a cleaner look.
