@@ -12,3 +12,5 @@ Deployment url: https://toasted-coder.github.io/The-Horiseon-Project/
 7. Added a display hidden element for footer.
 8. Fixed link in header for SOE to the SOE section of page.
 9. Added and overflow element to CSS page.
+
+![2020 12 18-13 14](https://user-images.githubusercontent.com/71535801/102662443-b4f49f00-4133-11eb-90e6-7009c488764d.png)
