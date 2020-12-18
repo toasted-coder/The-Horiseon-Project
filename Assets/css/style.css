@@ -127,12 +127,13 @@ p {
     font-size: 36px;
 }
 
-/*changed .footer to footer to match semantic tag*/
+/*changed .footer to footer to match semantic tag also added display element/value*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    display: none;
 }
 
 footer h2 {

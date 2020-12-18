@@ -9,3 +9,4 @@ Deployment url: https://toasted-coder.github.io/The-Horiseon-Project/
 4. Changed some div tags to their respective HTML5 semantic tags.
 5. Changed title of page to something descriptive of project.
 6. Removed a closing tag from an img.
+7. Added a display hidden element for footer.
