@@ -10,3 +10,4 @@ Deployment url: https://toasted-coder.github.io/The-Horiseon-Project/
 5. Changed title of page to something descriptive of project.
 6. Removed a closing tag from an img.
 7. Added a display hidden element for footer.
+8. Fixed link in header for SOE to the SOE section of page.
